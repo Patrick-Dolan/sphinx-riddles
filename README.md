@@ -12,7 +12,7 @@
 
 ## Description
 
-_Questions asked in the consoles are one of 5 riddles available. You have to answer them in the right way or else... _
+_Questions asked in the consoles are one of 5 riddles available. You have to answer them in the right way or else..._
 
 ## Setup/Installation Requirements
 
